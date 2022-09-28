@@ -1,0 +1,1 @@
+SELECT CONCAT(stu_fname,' ',stu_lname) AS Name,email,signup_month FROM students WHERE signup_month BETWEEN 7 AND 10;

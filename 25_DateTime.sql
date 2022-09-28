@@ -1,0 +1,15 @@
+-- CREATE DATABASE testing;
+USE testing;
+
+-- CREATE TABLE test(
+-- NAME VARCHAR(30),
+-- DATE Date,
+-- TIME Time,
+-- DATA_TIME DATETIME
+-- );
+
+-- INSERT INTO test(NAME,DATE,TIME,DATA_TIME) VALUES(
+-- "ANIRBAN MISHRA","2002-12-2","10:21:2",NOW()
+-- )
+
+SELECT * FROM test;
